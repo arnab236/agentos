@@ -110,7 +110,7 @@ agentos/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/agentos.git
+git clone https://github.com/arnab236/agentos.git
 cd agentos
 ```
 
