@@ -1,0 +1,24 @@
+# ── Python / Backend ──────────────────
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/.env
+backend/vectorstore/
+backend/temp_*
+backend/*.egg-info
+backend/.venv/
+backend/venv/
+
+# ── Node / Frontend ───────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+
+# ── General ───────────────────────────
+.DS_Store
+.vscode/
+.idea/
+*.log

@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+pydantic
+google-generativeai
+ollama
+requests
+langchain 
+faiss-cpu 
+pypdf 
+sentence-transformers
+langchain-community
+langchain-text-splitters
+python-multipart
