@@ -289,4 +289,9 @@ MIT — feel free to use, modify and build on top of this.
 
 ## Author
 
-Built with 🤖 and a lot of agent orchestration.
+## Author
+
+**Arnab Sarkar**
+- **GitHub:** [@arnab236](https://github.com/arnab236)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arnabsarkar)
+- **Portfolio:** [Portfolio Website](https://your-portfolio-link.com)
